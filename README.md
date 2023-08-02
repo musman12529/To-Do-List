@@ -10,7 +10,7 @@ This is a simple To Do List web application built with HTML, CSS, and JavaScript
 
 ## How to Run the Application
 
-Simply open the musman12529.github.io/To-Do-List/
+Simply open the https://musman12529.github.io/To-Do-List/
 
 ## How to Use
 
@@ -37,18 +37,4 @@ The main code is divided into three parts:
 
 The application should work on modern web browsers that support JavaScript and HTML5.
 
-## Contributing
 
-If you find any issues with the application or have suggestions for improvement, please feel free to open an issue or submit a pull request on GitHub.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code as per the terms of the license.
-
-## Acknowledgments
-
-The application was created by [Your Name].
-
----
-
-Thank you for checking out this To Do List application! If you have any questions or need further assistance, please feel free to reach out. Happy task managing!
