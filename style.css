@@ -1,0 +1,69 @@
+.printedList{
+    display: grid;
+    grid-template-columns: 200px 150px 100px;
+}
+.top{
+    display: grid;
+    grid-template-columns: 200px 150px 100px;
+    margin-bottom: 9px;
+}
+
+.deleteb{
+    margin-top: 14px;
+    width: 100px;
+    font-family: Arial;
+    padding: 7px;
+    
+    
+    background-color: rgb(175, 6, 6);
+    border: none;
+    color: white;
+   
+    font-size: 15px;
+}
+.add{
+    width: 100px;
+    background-color: green;
+    border: none;
+    color: white;
+    padding: 20px;
+    font-size: 15px;
+    font-family: Arial;
+    
+}
+
+.body{
+    font-family: Arial;
+    
+
+}
+
+.input{
+    font-family: Arial;
+    padding: 7px;
+    
+}
+.datee{
+    font-family: Arial;
+    padding: 7px;
+    
+    
+}
+.add{
+    font-family: Arial;
+    padding: 7px;
+    align-items: stretch;
+
+}
+
+.js-name{
+    font-family: Arial;
+    font-size: 15px;
+}
+
+.bdy{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
