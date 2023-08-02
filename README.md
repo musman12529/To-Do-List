@@ -8,7 +8,7 @@ Add tasks with due dates.
 View a list of added tasks.
 Delete tasks from the list.
     
-#How to Run the Application
+##How to Run the Application
 
 Simply open the musman12529.github.io/To-Do-List/ file in your web browser, and you'll see the To Do List application.
 
