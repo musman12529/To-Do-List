@@ -4,10 +4,10 @@
 This is a simple To Do List web application built with HTML, CSS, and JavaScript. It allows you to add tasks along with their due dates, mark them as completed, and delete them from the list.
 Features
 
-    Add tasks with due dates.
-    View a list of added tasks.
-    Delete tasks from the list.
-
+Add tasks with due dates.
+View a list of added tasks.
+Delete tasks from the list.
+    
 #How to Run the Application
 
 Simply open the musman12529.github.io/To-Do-List/ file in your web browser, and you'll see the To Do List application.
