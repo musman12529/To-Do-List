@@ -10,7 +10,7 @@ This is a simple To Do List web application built with HTML, CSS, and JavaScript
 
 ## How to Run the Application
 
-Simply open the musman12529.github.io/To-Do-List/ file 
+Simply open the musman12529.github.io/To-Do-List/
 
 ## How to Use
 
