@@ -1,5 +1,5 @@
 # To-Do-List
-To Do List App
+## Do List
 
 This is a simple To Do List web application built with HTML, CSS, and JavaScript. It allows you to add tasks along with their due dates, mark them as completed, and delete them from the list.
 Features
